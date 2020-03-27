@@ -1,5 +1,8 @@
+
 # hello-world-dotnet
 a dotnet example
+
+##docker run -it --rm -p 3000:80 --name hello-world-dotnet hello-world-dotnet
 
 https://dotnet.microsoft.com/learn/aspnet/microservice-tutorial/install
 
