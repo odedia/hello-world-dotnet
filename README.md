@@ -4,6 +4,8 @@ a dotnet example
 
 docker run -it --rm -p 3000:80 --name hello-world-dotnet hello-world-dotnet
 
+http://<host>:3000/WeatherForecast
+
 https://dotnet.microsoft.com/learn/aspnet/microservice-tutorial/install
 
 Step 2: 
