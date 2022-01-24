@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = hello_world_dotnet
+build_property.ProjectDir = /Users/odedia/tanzu/hello-world-dotnet/
