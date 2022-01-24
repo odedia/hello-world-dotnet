@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: dotnetapp
+  name: dotnet-hello-world
   description: .NET Hello World Application
   tags:
     - dotnet
