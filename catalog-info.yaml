@@ -8,7 +8,7 @@ metadata:
     - web
     - tanzu
   annotations:
-    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=dotnetapp'
+    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=dotnet-hello-world'
 spec:
   type: service
   lifecycle: experimental
