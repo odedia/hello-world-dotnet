@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dotnetapp
+  description: .NET Hello World Application
+  tags:
+    - dotnet
+    - web
+    - tanzu
+  annotations:
+    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=dotnetapp'
+spec:
+  type: service
+  lifecycle: experimental
+  owner: default-team
